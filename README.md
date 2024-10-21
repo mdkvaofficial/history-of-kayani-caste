@@ -1,7 +1,3 @@
-Here’s an improved version of your `README.md` to make it look more professional and informative:
-
----
-
 # Overview of Gakhar Caste
 
 This project provides an overview of the Gakhar caste, developed using **Svelte.js**. It serves as a starting point for a broader project that will eventually include detailed information about various other races and ethnic groups.
