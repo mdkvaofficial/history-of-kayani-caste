@@ -15,7 +15,7 @@ Follow these steps to get the project running locally:
 1. **Clone the repository**  
    Run the following command in your terminal to clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/mdkvaofficial/history-of-kayani-caste_using_sveltekit.git
    ```
 
 2. **Install dependencies**  
