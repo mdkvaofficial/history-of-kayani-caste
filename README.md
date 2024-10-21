@@ -60,6 +60,3 @@ Contributions are welcome! If you have suggestions or want to contribute additio
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Let me know if you want to adjust any details!
