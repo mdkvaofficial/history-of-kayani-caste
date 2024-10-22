@@ -1,6 +1,6 @@
-# Overview of Gakhar Caste
+# Overview of Kayani Caste
 
-This project provides an overview of the Gakhar caste, developed using **Svelte.js**. It serves as a starting point for a broader project that will eventually include detailed information about various other races and ethnic groups.
+This project provides an overview of the Gakhar / Kayani caste, developed using **Svelte.js**. It serves as a starting point for a broader project that will eventually include detailed information about various other races and ethnic groups.
 
 ## Project Description
 
@@ -15,7 +15,7 @@ Follow these steps to get the project running locally:
 1. **Clone the repository**  
    Run the following command in your terminal to clone this repository:
    ```bash
-   git clone https://github.com/mdkvaofficial/history-of-kayani-caste_using_sveltekit.git
+   git clone https://github.com/mdkvaofficial/history-of-kayani-caste.git
    ```
 
 2. **Install dependencies**  
@@ -39,14 +39,14 @@ Follow these steps to get the project running locally:
 - **HTML/CSS** - For structuring and styling the content.
 - **JavaScript (ES6+)** - Core functionality of the application.
 
-## Future Updates
+## Future Improvements
 
 - Expansion to cover other ethnic groups and races.
 - Additional historical and cultural insights.
 - Enhanced UI/UX with more detailed visual elements.
 - Possible integration with a database for managing more extensive datasets.
 
-## Contributing
+## Contributions
 
 Contributions are welcome! If you have suggestions or want to contribute additional content or features, feel free to submit a pull request or open an issue. Please follow the guidelines outlined below for submitting any changes:
 
@@ -55,8 +55,3 @@ Contributions are welcome! If you have suggestions or want to contribute additio
 3. Commit your changes (`git commit -m 'Add new feature'`)
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Open a pull request
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
